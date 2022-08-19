@@ -1,7 +1,11 @@
 # Memory-based Hybrid Feature Constraint for Unsupervised Visible-Infrared Person Re-identification
 
+The code is implemented by Pytorch.
 
-
+1、Prepare
+   (1) SYSU-MM01 Dataset
+   (2) RegDB Dataset 
+  
 
 
 
