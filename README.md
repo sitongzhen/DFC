@@ -1,4 +1,4 @@
-# Memory-based Hybrid Feature Constraint for Unsupervised Visible-Infrared Person Re-identification
+# Diversity Feature Constraints based Heterogeneous Data for Unsupervised Person Re-identificatio
 
 The code is implemented by Pytorch.<br>
 
